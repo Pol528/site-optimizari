@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+.countdown{
+    margin: auto;
+    width: 30%;
+    padding: 10px;
+}
+.harta {
+    margin: auto;
+    width: 30%;
+}
+.pol {
+    position: absolute;
+    top: 80px;
+    width: 450px;
+    left: 5%;
+}
+.madalin {
+    position: absolute;
+    top: 80px;
+    width: 450px;
+    right: 5%;
+}
